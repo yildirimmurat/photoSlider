@@ -1,0 +1,11 @@
+.swipe{
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    grid-column-gap: 1em;
+
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
